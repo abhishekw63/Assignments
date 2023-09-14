@@ -1,0 +1,25 @@
+Object-Oriented Programming (OOP) is a programming paradigm that uses objects and classes to structure and design software. It is a widely used approach for software development. Here are some key OOP concepts:
+
+Class: A class is a blueprint or template for creating objects. It defines the attributes (data) and methods (functions) that the objects of the class will have.
+
+Object: An object is an instance of a class. It represents a real-world entity or concept and encapsulates both data (attributes) and behavior (methods).
+
+Inheritance: Inheritance is a mechanism that allows a new class (subclass or derived class) to inherit properties and methods from an existing class (base class or superclass). This promotes code reuse and establishes a hierarchy of classes.
+
+Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables flexibility in method implementation and is often achieved through method overriding and interfaces.
+
+Encapsulation: Encapsulation is the concept of bundling data (attributes) and the methods (functions) that operate on that data into a single unit, called a class. It provides data hiding and access control, allowing data to be accessed only through defined methods.
+
+Abstraction: Abstraction is the process of simplifying complex systems by modeling classes based on their essential characteristics while hiding unnecessary details. It focuses on what an object does rather than how it does it.
+
+Constructor: A constructor is a special method in a class that is called when an object is created. It initializes the object's attributes and prepares it for use.
+
+Destructor: A destructor is a special method that is called when an object is destroyed or goes out of scope. It is used to release resources and perform cleanup operations.
+
+Method: A method is a function defined within a class that performs specific actions or operations on the class's data.
+
+Instance Variables: These are variables that belong to individual objects of a class. They hold the state or data specific to each object.
+
+Class Variables: Class variables are shared among all instances of a class. They store data that is common to all objects of the class.
+
+Interface: An interface defines a contract that classes must adhere to. It specifies a set of methods that implementing classes must provide. In some languages like Java, multiple inheritance is achieved through interfaces
